@@ -1,0 +1,8 @@
+pytsk3
+regipy>=3.1.0
+libscca-python
+LnkParse3
+libevtx-python
+libevt-python
+libpff-python
+filetype
